@@ -1,2 +1,2 @@
-# SQL_DATA_WAREHOUSE
+# SQL DATA WAREHOUSE
 Building a medallion architecture DWH with SQL
